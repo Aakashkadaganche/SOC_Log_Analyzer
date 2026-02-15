@@ -3,3 +3,4 @@
 Shared_logs/
 __pycache__/
 *.pyc
+!requirements.txt
