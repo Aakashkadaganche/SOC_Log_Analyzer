@@ -67,6 +67,18 @@ To simulate enterprise SOC monitoring workflows and security event analysis for 
 
 ---
 
+## 📸 Screenshots
+
+### Dashboard View 1
+![Dashboard1](Screenshots/dashboard.png)
+
+### Dashboard View 2
+![Dashboard2](Screenshots/dashboard2.png)
+
+### Dashboard View 3
+![Dashboard3](Screenshots/dashboard3.png)
+
+
 ## 👨‍💻 Author
 Aakash Kadaganche
 
